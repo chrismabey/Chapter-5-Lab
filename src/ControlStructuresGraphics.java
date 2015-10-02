@@ -1,4 +1,8 @@
-
+/* Chris Mabey
+   Mr. Kiedes
+   Chp. 5 Lab
+   2 October 2015
+   		*/
 // Lab05vst.java
 // Student version of the Lab05 assignment.
 
@@ -8,6 +12,7 @@ import java.applet.*;
 public class ControlStructuresGraphics extends Applet {
 	public void paint(Graphics g)
 	{
+		// width and height of window
 		int width = 980;
 		int height = 630;
 		g.drawRect(10,10,width,height);
